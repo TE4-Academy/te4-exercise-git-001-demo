@@ -6,3 +6,6 @@ Detta repo används för Git-demonstrationer.
 - Grundläggande Git-kommandon
 - Branching och merging
 - Konflikthantering
+
+## Användning
+Följ instruktionerna från läraren.
